@@ -1,0 +1,5 @@
+<mod displayName="Replicant" unique="PSI_119_RigidParts" description="Replicant adds a variety of cloned parts with different properties." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+	<prerequisite game="GalacticAdventures">!PSI-119_RigidParts_v0-14-0.package</prerequisite>
+	<component unique="RigidParts_Stacking" displayName="Stacking" description="Allows all parts to be stacked on to other parts, regardless of type." game="GalacticAdventures" defaultChecked="true">!!PSI-119_RigidParts_Stacking.package</component>
+	<remove game="GalacticAdventures">*PSI-119_RigidParts*</remove>
+</mod>
