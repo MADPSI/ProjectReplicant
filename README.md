@@ -1,6 +1,6 @@
 # Project: Replicant
-### WIP Warning: This mod is still very much in development and may suffer from unexpected issues, and may undergo significant changes without notice. 
-### Note: The mod does not strictly require, but benefits from *Dark Injection* (https://davoonline.com/sporemodder/rob55rod/DarkInjection/) being installed.
+* WIP Warning: This mod is still very much in development and may suffer from unexpected issues, and may undergo significant changes without notice. 
+* Note: The mod does not strictly require, but benefits from *Dark Injection* (https://davoonline.com/sporemodder/rob55rod/DarkInjection/) being installed.
 
 **Replicant** is a large-scale Parts Mod that adds copies of all the existing Creature Parts (including Creepy & Cure if it happens to be installed) with modifications made to them.
 
