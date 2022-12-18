@@ -28,7 +28,7 @@ Note: Despite being one of the more touched on topics, Mouth parts and some Eye 
 
 Note: As with the two previous categories, there has been a few issues with these parts too. In addition to the problems plaguing certain mouth and eye RTPs, an error in compiling the mod means that only a handful of parts have had their Part-mode textures removed in order to properly distinguish them from other parts. Further testing of this issue is needed to establish the exact cause, but for now the inconsistency is the worst part of the issue, crashes being very rare among these parts.
 
-Misc
+## Misc
 The mod is distributed in .sporemod format for the express purpose of making an easily-toggleable stacking mechanic, and will likely also be needed in the future as the mod expands. When first installed with the ModAPI Easy Installer (Available as part of the ModAPI Launcher Kit, available here: http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/), the mod will open an installer wizard with the Stacking option pre-set to On. This setting can then be changed by using the ModAPI Easy Uninstaller and changing the settings of the mod by clicking the Gear next to its entry in the list of mods, as with Dark Injection. This can only be done before opening the game or after closing it, not during runtime.
 
 If Stacking is disabled, the parts revert back to being placeable only on the main body and limbs of the Creature, useful for nesting parts in certain creations, and while perhaps a hassle to have to restart the game very so often, the best currently available option.
